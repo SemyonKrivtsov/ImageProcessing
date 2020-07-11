@@ -1,4 +1,4 @@
-# Laboratory work on the course "Computer image processing"
+# Laboratory work on the course "Computer image processing" implemented in C#
 
 Tasks for laboratory work:
 
