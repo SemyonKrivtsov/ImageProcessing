@@ -1,7 +1,5 @@
 # Laboratory work on the course "Computer image processing" implemented in C#
 
-Tasks for laboratory work:
-
 ## Laboratory work No. 1:
 Blending two 8 bpp images of the same size using the third 8 bpp image as the alpha channel. Implement mirror image pixels relative to the vertical axis, horizontal axis, as well as image transposition.
 
